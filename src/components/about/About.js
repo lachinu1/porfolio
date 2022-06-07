@@ -32,7 +32,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 👉
               </span>{' '}
-              Trabajo principalmente con HTML, CSS, React, Node.js, Bootstrap, Material UI, Git.
+              Trabajo principalmente con HTML, CSS, React.JS, Bootstrap, Material UI.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -50,7 +50,7 @@ const About = () => {
                     'la comunicación',
                     'aprender nuevas tecnologías',
                     'ayudar y colaborar',
-                    'aportar ideas y conocimientos. Tengo mucha inicativa',
+                    'aportar ideas y conocimientos',
                     'liderar equipos',
                   ],
                   autoStart: true,

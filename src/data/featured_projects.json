@@ -2,6 +2,19 @@
   "featured_projects": [
     {
       "id": 0,
+      "name": "Administración LB",
+      "link": "https://administracionlb.wixsite.com/",
+      "description": "Web site para la Administración de la LB",  
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+       
+        { "name": "Wix", "color": "rgb(86, 61, 124)" },
+        { "name": "Web Design", "color": "white" }
+      ]
+    },
+
+    {
+      "id": 1,
       "name": "Reserva de alojamientos",
       "link": "https://s2eee.csb.app/",
       "description": "Aplicación de búsqueda hotelera .No es responsive",
@@ -13,7 +26,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Gifos",
       "link": "https://t2m50.csb.app/",
       "description": "Aplicación web interactiva para compartir GIFs animados, uso de JavaScript mediante la obtención de datos de la API de Giphy.com.ar, http://giphy.com/, trabajando con asincronismo. Sitio responsive.",
@@ -25,7 +38,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Rewards-Store",
       "link": "https://lachinu1.github.io/rewards-store/",
       "description": "Aplicación de un e-commerce que le permite a usuarios/as canjear puntos por productos. No es responsive aún.",
@@ -37,7 +50,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Southern Horizon Web Site",
       "link": "https://www.southernhorizon.tech/",
       "description": "Web site oficial de Southern Horizon. Diseño resposivo (la nueva versión aún no está publicada).",
@@ -49,7 +62,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Cinema",
       "link": "",
       "description": "Aplicación web interactiva de búsqueda de películas",
@@ -61,10 +74,22 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Bitwallet",
       "description": "Mockup de una aplicación web que permite a los usuarios/as realizar transacciones en Bitcoin.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))"
+    },
+    {
+      "id": 7,
+      "name": "Goscrum",
+      "link": "https://lachinu1.github.io/goscrum/",
+      "description": "Aplicación web para gestionar proyectos",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Html", "color": "rgb(86, 61, 124)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" },
+        { "name": "React.JS", "color": "white" }
+      ]
     }
   ]
 }

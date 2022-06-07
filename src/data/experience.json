@@ -2,6 +2,20 @@
   "experience": [
     {
       "id": 0,
+      "link": "https://administracionlb.wixsite.com/",
+      "company": "administracionlb",
+      "title": "Administración LB",
+      "info": [
+        "Aplicación de búsqueda hotelera.",
+        "No es responsive aún."
+      ],
+      "stack": ["React.js", "Bootstrap", "Node.js", "Web Desing"],
+      "logowidth": 100,
+      "logoheight": 107,
+      "background": "Administracion LB"
+    },
+    {
+      "id": 1,
       "link": "https://s2eee.csb.app/",
       "company": "hoteles",
       "title": "Reserva de alojamientos",
@@ -15,7 +29,7 @@
       "background": "Hoteles"
     },
     {
-      "id": 1,
+      "id": 2,
       "link": "https://t2m50.csb.app/",
       "company": "gifos",
       "title": "Gifos",
@@ -28,7 +42,7 @@
       "background": "Gifos"
     },
     {
-      "id": 2,
+      "id": 3,
       "link": "https://lachinu1.github.io/rewards-store/",
       "company": "rewardsstore",
       "title": "Rewards-Store",
@@ -42,7 +56,7 @@
       "background": "Rewards Store"
     },
     {
-      "id": 3,
+      "id": 4,
       "link": "https://www.southernhorizon.tech/",
       "company": "sh",
       "title": "Southern Horizon Web Site",
@@ -55,19 +69,19 @@
       "background": "Southern Horizon"
     },
     {
-      "id": 4,
+      "id": 5,
       "link": "",
       "company": "cinema",
       "title": "Cinema",
       "info": [
         "Web de búsqueda de películas."
       ],
-      "stack": ["Html", "CSS", "React.JS", "Design"],
+      "stack": ["Html", "CSS", "React.JS", "Bootstrap", "Design"],
       "logowidth": 100,
       "background": "Cinema"
     },
     {
-      "id": 5,
+      "id": 6,
       "link": "bitwallet.png",
       "company": "bitwallet",
       "title": "Bitwallet",
@@ -78,6 +92,18 @@
       "stack": ["Design"],
       "logowidth": 100,
       "background": "Bitwallet"
+    },
+    {
+      "id": 7,
+      "link": "https://lachinu1.github.io/goscrum/",
+      "company": "goscrum",
+      "title": "Goscrum",
+      "info": [
+        "Aplicación web para gestionar proyectos."
+      ],
+      "stack": ["Html", "CSS", "React.JS", "Design"],
+      "logowidth": 100,
+      "background": "Goscrum"
     }
   ]
 }

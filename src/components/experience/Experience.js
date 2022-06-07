@@ -54,7 +54,7 @@ const Experience = () => {
             }}
           >
             <p style={{ textAlign: 'center' }}>
-              Podes ver mi perfil de{' '}
+            Podes ver mi perfil de{' '}
               <a
                 href="https://www.linkedin.com/in/flobelascuain/"
                 target="_blank"
@@ -81,7 +81,8 @@ const Experience = () => {
             <a
               style={{ textDecoration: 'none', color: '#ffffff', cursor: 'pointer' }}
               href="../../flobelascuain-cv.pdf"
-              download="flobelascuain-cv">
+              download="Flo Belascuain CV"
+            >
               Descargar mi CV
             </a>
             </Button>
