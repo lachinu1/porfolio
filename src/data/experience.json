@@ -1,0 +1,83 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://s2eee.csb.app/",
+      "company": "hoteles",
+      "title": "Reserva de alojamientos",
+      "info": [
+        "Aplicación de búsqueda hotelera.",
+        "No es responsive aún."
+      ],
+      "stack": ["React.js", "Bootstrap", "Node.js", "Web Desing"],
+      "logowidth": 100,
+      "logoheight": 107,
+      "background": "Hoteles"
+    },
+    {
+      "id": 1,
+      "link": "https://t2m50.csb.app/",
+      "company": "gifos",
+      "title": "Gifos",
+      "info": [
+        "Aplicación web interactiva para compartir GIFs animados, uso de JavaScript mediante la obtención de datos de la API de Giphy.com.ar, http://giphy.com/, trabajando con asincronismo.", 
+        "Sitio responsive."
+      ],
+      "stack": ["React.js", "CSS", "Node.js", "API Giphy"],
+      "logowidth": 100,
+      "background": "Gifos"
+    },
+    {
+      "id": 2,
+      "link": "https://lachinu1.github.io/rewards-store/",
+      "company": "rewardsstore",
+      "title": "Rewards-Store",
+      "info": [
+        "Aplicación de un e-commerce que le permite a usuarios/as canjear puntos por productos.", 
+        "No es responsive aún."
+      ],
+      "stack": ["React.js", "CSS", "Design", "Material UI"],
+      "logowidth": 100,
+      "logoheight": 107,
+      "background": "Rewards Store"
+    },
+    {
+      "id": 3,
+      "link": "https://www.southernhorizon.tech/",
+      "company": "sh",
+      "title": "Southern Horizon Web Site",
+      "info": [
+        "Web site oficial de Southern Horizon.",
+        "Diseño responsivo (la nueva versión aún no está publicada)."
+      ],
+      "stack": ["Html", "CSS", "Javascript", "Design"],
+      "logowidth": 100,
+      "background": "Southern Horizon"
+    },
+    {
+      "id": 4,
+      "link": "",
+      "company": "cinema",
+      "title": "Cinema",
+      "info": [
+        "Web de búsqueda de películas."
+      ],
+      "stack": ["Html", "CSS", "React.JS", "Design"],
+      "logowidth": 100,
+      "background": "Cinema"
+    },
+    {
+      "id": 5,
+      "link": "bitwallet.png",
+      "company": "bitwallet",
+      "title": "Bitwallet",
+      "info": [
+        "Mockup.",
+        "Diseño UI."
+      ],
+      "stack": ["Design"],
+      "logowidth": 100,
+      "background": "Bitwallet"
+    }
+  ]
+}

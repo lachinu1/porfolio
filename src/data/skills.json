@@ -1,0 +1,42 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Diseño",
+      "amount": "75"
+    },
+    {
+      "id": 1,
+      "skillName": "React.JS",
+      "amount": "65"
+    },
+    {
+      "id": 2,
+      "skillName": "Html",
+      "amount": "80"
+    },
+    {
+      "id": 3,
+      "skillName": "Css",
+      "amount": "80"
+    },
+    {
+      "id": 4,
+      "skillName": "Bootstrap",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "Node.js",
+      "amount": "50"
+    },
+    { "id": 6, 
+      "skillName": "Photoshop",
+       "amount": "55" 
+    },
+    { "id": 7, 
+      "skillName": "Illustrator",
+       "amount": "55" 
+    }
+  ]
+}
