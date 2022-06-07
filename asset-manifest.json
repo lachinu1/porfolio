@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.8d02bf2d.chunk.css",
-    "main.js": "/porfolio/static/js/main.63584ca1.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.63584ca1.chunk.js.map",
+    "main.css": "/porfolio/static/css/main.6597972c.chunk.css",
+    "main.js": "/porfolio/static/js/main.66133451.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.66133451.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.e6904c30.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.e6904c30.js.map",
-    "static/js/2.844c59c5.chunk.js": "/porfolio/static/js/2.844c59c5.chunk.js",
-    "static/js/2.844c59c5.chunk.js.map": "/porfolio/static/js/2.844c59c5.chunk.js.map",
+    "static/js/2.f1db1ecb.chunk.js": "/porfolio/static/js/2.f1db1ecb.chunk.js",
+    "static/js/2.f1db1ecb.chunk.js.map": "/porfolio/static/js/2.f1db1ecb.chunk.js.map",
     "index.html": "/porfolio/index.html",
-    "precache-manifest.3718ada779ddc229ec64bd393ac841e2.js": "/porfolio/precache-manifest.3718ada779ddc229ec64bd393ac841e2.js",
+    "precache-manifest.f09a8359a5a50504a6dd8d8da60e511f.js": "/porfolio/precache-manifest.f09a8359a5a50504a6dd8d8da60e511f.js",
     "service-worker.js": "/porfolio/service-worker.js",
-    "static/css/main.8d02bf2d.chunk.css.map": "/porfolio/static/css/main.8d02bf2d.chunk.css.map",
-    "static/js/2.844c59c5.chunk.js.LICENSE.txt": "/porfolio/static/js/2.844c59c5.chunk.js.LICENSE.txt",
+    "static/css/main.6597972c.chunk.css.map": "/porfolio/static/css/main.6597972c.chunk.css.map",
+    "static/js/2.f1db1ecb.chunk.js.LICENSE.txt": "/porfolio/static/js/2.f1db1ecb.chunk.js.LICENSE.txt",
+    "static/media/administracionlb.png": "/porfolio/static/media/administracionlb.d2b53682.png",
     "static/media/bitwallet.png": "/porfolio/static/media/bitwallet.a4c04172.png",
     "static/media/cinema.png": "/porfolio/static/media/cinema.a70aa613.png",
     "static/media/flo.png": "/porfolio/static/media/flo.f3e53e96.png",
     "static/media/gifos.png": "/porfolio/static/media/gifos.f3902107.png",
+    "static/media/goscrum.png": "/porfolio/static/media/goscrum.da27e0f8.png",
     "static/media/hoteles.png": "/porfolio/static/media/hoteles.0e28bda1.png",
     "static/media/playbrands.png": "/porfolio/static/media/playbrands.34e57692.png",
     "static/media/rewardsstore.png": "/porfolio/static/media/rewardsstore.4c273546.png",
@@ -24,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e6904c30.js",
-    "static/js/2.844c59c5.chunk.js",
-    "static/css/main.8d02bf2d.chunk.css",
-    "static/js/main.63584ca1.chunk.js"
+    "static/js/2.f1db1ecb.chunk.js",
+    "static/css/main.6597972c.chunk.css",
+    "static/js/main.66133451.chunk.js"
   ]
 }
